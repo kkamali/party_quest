@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classes_array">
+        <item>Bard</item>
+        <item>Cleric</item>
+        <item>Fighter</item>
+        <item>Rogue</item>
+        <item>Wizard</item>
+    </string-array>
+</resources>
